@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "reciept-scanner-project",
+  "private_key_id": "a9b0f9c7b42127f52c754df47c40e0ce20f076aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCq+4yud2pXFLIM\nIbkUuGknsbLZIGGftRHisIinJETVV/RVJM134i6f3ySulC2IG6f6La7osTce7oz6\ngqtebF0yG+8/c/xRy5n8p3pLwQPBEqq20ygvIUsId/MGx8QRRsAxYGvKF3xJ8bBD\n6bWOTk116euRiiYSLvR5lMVf0HopqEg8NWhvpVlqCYxvAn6bY4u9XOEDE2aMpIzm\n7d02HvkAv9pkfhnlhev6/h0Srr9zmV7OiosTgZcYk79+7Qk6xZjsF5F60T7dy4cE\nTGsBHzOgh0hKyyrf7ARX4vlrJvOYmSgzzC6k+NEGUxSOqBv6CvQpLxCRwgF9vLd1\nuDCBhovdAgMBAAECggEACBfL+t4QHHsQSl62QfLQl15j1r8fn82UQSSV80NWNrrp\nB7asOwZrqomHVPQSi6SzeLX812q77yzfY2QX9GowpxSHaHt27/AxI7JRqZBDOzpE\n9k5cUo7C3G3BBQsjjqXIpw2nTHN8IIveCfjf7RJrvC8MRWFCmA286JxQE07s2VfX\n88dfecIlSqMY22mC5Kcfo4+kbg2QTSeyF7sPe0gVRQbRBj+JfiJQDUHPWTLEBNIw\n7HCacj1yYWYDqWjqxnO/awQERMUCAg0UbIhTmTeOrU19wnoiQ/BBjlMnM8mFEAOU\nKf1CqUxfAKtjsLWND3pWzM9jO2V+NKjoUi6RubqbyQKBgQDWQEhjpWcTAwIAFqFp\nhpham+70OwtShP5k2YGArE/0qlG2mkw4sVPIJ1B7EfN2bRcrNwe5TmmhILHuq1YX\n79gdTrqU0LPJ9uohLuNjTtd5vrrKB/3Tlm7U9LeO5zDAlN165/SmgrU8hFV74ziM\nlacdKTXcwMAw8dv2yrOt985IBwKBgQDMTNu/3mlEhbKWNNyu5hTyhK/IVFQjppjZ\nXl66GJ3zPtH+ZkpURjPwsgS7Voz4LsO/1hsXhLsmGDND6tCICi7a9BBLqS836MV2\n3cQhJwso5JdCBMATR0zdoyb/pb0FKvaWOWc9peR71CfSGcFIAOlYo1y6GzjPiyA3\nv2kzc71r+wKBgD6QsxL2QC1bGYBxG123glIjaxpDC8FjOO62XYz3xLmL6yTJ1ixQ\nDElMwcHOsiwJG1TxUv4YGdyFsbAitJd04MVeMjo23+nAgwqBqMFdSqswuVc6EjNx\noJfrhpbiiGgUkMDNb7IYRViQxG3TIrZbFVv8ps/6MaWZW0SsWOAal1CNAoGBAIFA\n8xq95Q3EJIuhoClLSd9xkSEGMUFo6nVDnlzQrEWz7fmsz8Pnsn7KsfGwPXnbZF8f\nX36OrDTaxLxoeExJXQGLvi+QN16A90VP4wEyiX3yubu786V+y6PB0C+XtTHqz52V\nbbr0FM0/GX50avNaGEfK+ySHinbMR7Ldd/pkdGg3AoGBAK/L7uSw1xDDVrWwxPuI\n3fw4CNiQICT54oFW68PjHsBfXwIpOgxiSLi9ZwdXpKnxbGl1dIjSS7Ecf2yIH7uX\ncqrvBSUeDyIPA8XUrd5tdfjC/1Oza034KLUjTzTuJeL9X0JSAqlaW9CSCEc1o0df\n7MTOcOFEbNvNFbMcufcyivbU\n-----END PRIVATE KEY-----\n",
+  "client_email": "receiptscannerproject@reciept-scanner-project.iam.gserviceaccount.com",
+  "client_id": "108843898775081568358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/receiptscannerproject%40reciept-scanner-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
